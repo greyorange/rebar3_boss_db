@@ -11,5 +11,5 @@
 
   {maintainers, ["ErlyORM", "David Robakowski"]},
   {licenses, ["MIT"]},
-  {links, [{"GitHub", "https://github.com/synlay/rebar3_boss_db"}]}
+  {links, [{"GitHub", "https://github.com/greyorange/rebar3_boss_db"}]}
  ]}.
